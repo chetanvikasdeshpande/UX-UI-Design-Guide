@@ -32,6 +32,10 @@ Greek words/Etymology can be a great resource to look for a name (Eg . Oculus)
 2. Invision App
 3. https://canvasflip.com/
 
+#Design software
+1. SketchApp
+2. SketchApp Resource Site for components
+
 # Design Principles
 1. Gestalt principles
 2. HubSpot Books for Data Visualizations
