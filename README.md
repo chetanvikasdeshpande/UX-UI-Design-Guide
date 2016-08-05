@@ -57,3 +57,5 @@ Greek words/Etymology can be a great resource to look for a name (Eg . Oculus)
 2. http://nvd3.org/ (D3 wrapper for easy things)
 3. http://examples.sencha.com/extjs/6.0.2/examples/kitchensink/?charts=true#all
 4. HubSpot Books for Data Visualizations (See PDF attached in this Repository)
+5. Amcharts
+6. HighCharts
